@@ -1,3 +1,4 @@
+<div><p><!-- you can use bootstrap 3 classes to format your instructions --></p>
 <div class="alert alert-info">
     <h2>Ficha do "Autocarro"</h2>
     <p><strong>Introdução</strong></p>
@@ -173,4 +174,4 @@
     <p><strong>Notas</strong></p>
     <p>Tenha o cuidado de respeitar os nomes, tipos de dados e formatos indicados.</p>
     <p>Tenha o cuidado de respeitar o princípio de encapsulamento.</p>
-</div>
+</div></div>
